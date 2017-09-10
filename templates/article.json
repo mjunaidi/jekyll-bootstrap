@@ -1,0 +1,1 @@
+{"name":"Article","properties":[{"name":"name","label":"name","type":"text"},{"name":"lead","label":"lead","type":"text"},{"name":"body","label":"body","type":"text","inputType":"richtext"},{"name":"images","label":"images","type":"file","fileType":"image"},{"name":"footer","label":"footer","type":"text","inputType":"richtext"}]}
